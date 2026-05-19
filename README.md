@@ -2,7 +2,7 @@
 
 Кросс-продуктовая программа лояльности на блокчейне TON с интерфейсом в виде Telegram Mini App. Бренды выпускают собственные жетоны (баллы), пользователи получают их за покупки и обменивают между разными брендами по заранее заданному курсу.
 
-> Это учебный прототип, а не production-система — см. раздел «Текущие ограничения».
+> Это учебный прототип, а не production-система.
 
 ---
 [![Telegram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg)](https://t.me/loyalxapp_bot)
